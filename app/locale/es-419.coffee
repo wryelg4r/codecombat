@@ -91,7 +91,7 @@ module.exports = nativeDescription: "Español (América Latina)", englishDescrip
     view_progress: "Ver mi progreso"
     check_out_wiki: "Check out our new educator Wiki"
     want_coco: "¿Quiéres CodeCombat en tu escuela?"
-    form_select_role: "Seleccione rol primarioSelect primary role"
+    form_select_role: "Seleccione rol primario"
     form_select_range: "Seleccione el tamaño de la clase"
 
   nav:
